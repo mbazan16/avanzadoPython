@@ -1,0 +1,6 @@
+2023-06-27 13:52:21,774 - INFO - pero lo han devuelto
+2023-06-27 13:55:34,238 - INFO - {Ejercicio9Test}-{test_1}
+2023-06-27 13:55:51,119 - INFO - {Ejercicio9Test}-{test_1}
+2023-06-27 13:55:51,119 - DEBUG - <__main__.MiObjeto object at 0x0000025B43322D90>
+2023-06-27 13:57:21,880 - INFO - {Ejercicio9Test}-{test_1}
+2023-06-27 13:57:21,881 - DEBUG - MiObjeto[nombre=Pepe]
